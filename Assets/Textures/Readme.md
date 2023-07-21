@@ -1,0 +1,1 @@
+All the textures were handmade and are being used in some projects and will be used by the developer in future projects that's why they are not uploaded here.

@@ -1,0 +1,1 @@
+All the sound effects were made/produced by the developer itself and are being used in some projects and will be used by the developer in future projects that's why they are not uploaded here.

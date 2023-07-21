@@ -1,0 +1,8 @@
+----Controls-----
+
+Move your character with the A and D keys or Left Arrow and Right Arrow keys.
+Press LEFT CTRL or S  to crouch.
+Press SpaceBar to jump.
+Press E to enteract.
+Press Enter Key/E to submit.
+Press Left Mouse Button to use magic. 

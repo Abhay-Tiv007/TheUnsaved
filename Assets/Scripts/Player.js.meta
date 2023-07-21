@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6754b048d664ca041ad2773e754094ae
+timeCreated: 1555945902
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cc: {instanceID: 0}
+  - mb: {instanceID: 0}
+  - text: {instanceID: 0}
+  - scoredParticle: {instanceID: 0}
+  - health: {instanceID: 0}
+  - healthParent: {instanceID: 0}
+  - deathAnim: {instanceID: 0}
+  - overlay: {instanceID: 0}
+  - cchange: {instanceID: 0}
+  - myMixer: {fileID: 24100000, guid: 7d7bb8af6ecfe3e49a46e72dac7a1eaa, type: 2}
+  - canv: {instanceID: 0}
+  - control: {instanceID: 0}
+  - pausemenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
